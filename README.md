@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Divakar
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning html and css
+- 👀 I’m a intrested in  web development
+- 🌱 I’m currently learning html and css and java scrript
 - 💞️ I’m looking to collaborate on website development
-- 📫 Reach me through my insta id "the_black_sparrow.__
+- 📫 Reach me through my insta id "the_black_sparrow.__"
 
 
 <!---
