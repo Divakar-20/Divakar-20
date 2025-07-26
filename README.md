@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Divakar
-- 👀 I’m a intrested in  web development
+- 👀 I’m a intrested in Full Stack development
 - 🌱 I’m currently learning html and css and java scrript
 - 💞️ I’m looking to collaborate on website development
 - 📫 Reach me through my insta id "the_black_sparrow.__"
